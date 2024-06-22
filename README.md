@@ -32,7 +32,7 @@ git clone https://github.com/PhaniTejaPMSS/deepconnect-deepfake-detect.git
 cd deepconnect-deepfake-detect
 ```
 
-2. Download the pre-trained model zip file and place it in the appropriate directory. [ Update the paths accordingly ]
+2. Download the pre-trained model zip file and place it in the appropriate directory. **Update the paths accordingly.
 
 ## Usage
 
